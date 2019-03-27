@@ -1,13 +1,16 @@
-#' Title
+#' Select variable
 #'
-#' @param df 
-#' @param ind 
+#'Select variable from a data frame
+#' @param df A data frame
+#' @param ind Indicices as integer, logical or character vector.
 #'
-#' @return
+#' @return A subseted data frame
 #' @export
-#' @import dplyr
 #'
 #' @examples
+#' select2(iris, 1:3)
+#' select2(iris, c(TRUE, TRUE, TRUE, FALSE, FALSE))
 select2 <- function(df, ind){
-  if(!is.data.frame(df)) stop("df doit être un data frame")
+  if (!is.data.frame(df)) stop("df doit etre un data frame")
+  df[ind]
 }

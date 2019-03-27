@@ -10,5 +10,5 @@ test()
 Title
 }
 \examples{
-test
+test()
 }

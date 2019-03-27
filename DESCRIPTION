@@ -1,13 +1,13 @@
 Package: Minidplyr
-Title: What the Package Does (One Line, Title Case)
+Title: Reimplementing dplyr
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Guillaume",
+           family = "Rivollier",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: Package for learning.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
