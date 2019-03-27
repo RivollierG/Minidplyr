@@ -6,6 +6,9 @@
 \usage{
 test()
 }
+\value{
+Hello World
+}
 \description{
 Title
 }

@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @return
+#' @return Hello World
 #' @export
 #'
 #' @examples
