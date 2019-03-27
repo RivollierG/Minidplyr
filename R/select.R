@@ -2,9 +2,9 @@
 #'
 #'Select variable from a data frame
 #' @param df A data frame
-#' @param ind Indicices as integer, logical or character vector.
+#' @param ind Indices as integer, logical or character vector.
 #'
-#' @return A subseted data frame
+#' @return A subsetted data frame
 #' @export
 #'
 #' @examples

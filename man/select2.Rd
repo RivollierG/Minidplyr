@@ -9,10 +9,10 @@ select2(df, ind)
 \arguments{
 \item{df}{A data frame}
 
-\item{ind}{Indicices as integer, logical or character vector.}
+\item{ind}{Indices as integer, logical or character vector.}
 }
 \value{
-A subseted data frame
+A subsetted data frame
 }
 \description{
 Select variable from a data frame

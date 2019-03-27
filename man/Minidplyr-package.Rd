@@ -4,7 +4,7 @@
 \name{Minidplyr-package}
 \alias{Minidplyr}
 \alias{Minidplyr-package}
-\title{Minidplyr: Reimplementing dplyr}
+\title{Minidplyr: Re-implementing dplyr}
 \description{
 Package for learning.
 }
