@@ -11,6 +11,6 @@
 #' select2(iris, 1:3)
 #' select2(iris, c(TRUE, TRUE, TRUE, FALSE, FALSE))
 select2 <- function(df, ind){
-  if (!is.data.frame(df)) stop("df doit etre un data frame")
+  if (!is.data.frame(df)) stop("df doit etre un dataframe")
   df[ind]
 }
